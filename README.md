@@ -7,4 +7,4 @@ A communication record stores Channel, Direction (inbound or outbound) and Summa
 
 -Provide professional customer management.
 
-![](Customer360/Result/Home-Customer.png)
+![](Result/Home-Customer.png)
